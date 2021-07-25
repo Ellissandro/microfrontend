@@ -1,7 +1,7 @@
 <h1 align="center">Micro Frontend with Rodrigo Branas</h1>
 <p align="center">This project I created when I talked live with Rodrigo Branas about Micro FrontEnds</p>
 
-
+ * <a href="https://www.youtube.com/watch?v=gcztgrI-MlM">Referência</a>
 <!--ts-->
    * [About](#About)
    <!-- * [Installation](#installation)
